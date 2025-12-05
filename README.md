@@ -5,7 +5,7 @@ This repository contains part of the code, data, and protocols associated with t
 The content provided here includes analysis code and exemplary datasets primarily related to visual responses in the larval optic tectum and to combining the CLOK method with multiple constructs.  
 
 Additional major resources related to the paper are available at:  
-👉  (https://github.com/koyama-lab/faini-et-al)
+👉  https://github.com/koyama-lab/faini-et-al
 
 ---
 
