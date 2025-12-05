@@ -5,7 +5,7 @@ This repository contains part of the code, data, and protocols associated with t
 The content provided here includes analysis code and exemplary datasets primarily related to visual responses in the larval optic tectum and to combining the CLOK method with multiple constructs.  
 
 Additional major resources related to the paper are available at:  
-👉 https://github.com/koyama-l-lab/faini-et-al
+👉  https://github.com/koyama-lab/faini-et-al
 
 ---
 
@@ -18,7 +18,7 @@ Additional major resources related to the paper are available at:
 ---
 ### **CODE folder**
 - Exemplary Python notebooks to perform: - single-neuron calcium activity analysis; - correlation between functional responses and birthdate labeling. 
-- MATLAB scripts used to process Whalocamp and Voltron recordings   (related to Fig. 6a–b).
+
 ---
 ### **IMAGE EXAMPLE folder**
 - Representative raw multicolor fluorescence images (different JF-dyes and GCaMP emission)
