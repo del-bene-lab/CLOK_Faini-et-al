@@ -18,7 +18,7 @@ Additional major resources related to the paper are available at:
 ---
 ### **CODE folder**
 - Exemplary Python notebooks to perform: - single-neuron calcium activity analysis; - correlation between functional responses and birthdate labeling. 
-- MATLAB scripts used to process Whalocamp and Voltron recordings   (related to Fig. 6a–b).
+
 ---
 ### **IMAGE EXAMPLE folder**
 - Representative raw multicolor fluorescence images (different JF-dyes and GCaMP emission)
