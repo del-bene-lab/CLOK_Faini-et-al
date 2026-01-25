@@ -2,7 +2,11 @@ In this subfolder we report some MatlabScript and exemplary data to generate ana
 
 - Plot_RatioDistribution_F.m : Plot distribution and location of cell and their dye ratio values ( Supp. Figure 15) .
 
-- ratio_PositionANDclustering_Whalocamp.m : Treat location ad fluorescence values from dual dye whalocamp fluorescent to cluster early and late born popualtion (Fig. 6a and Supp.Fig.20) 
+- ratio_PositionANDclustering_Whalocamp.m : Treat location and fluorescence values from dual dye whalocamp fluorescent to cluster early and late born popualtion (Fig. 6a and Supp.Fig.20)
+
+- The file WhaloCamp_traceClusteringANDselection_essential.zip coitanisn both the essential variabla .mat fiel and a full code to selct and merge properly late  and early cell ROi, cluster them and make some basic analysis on trace (normalization, detranign, smoothin and rough manual selection of active cells).
+
+    
 
 
 
