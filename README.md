@@ -18,7 +18,7 @@ Additional major resources related to the paper are available at:
 ---
 ### **CODE folder**
 - Exemplary Python notebooks to perform: - single-neuron calcium activity analysis; - correlation between functional responses and birthdate labeling. 
-
+- Exemplary Matlab codes to perform: - ealry late cell clustering - calcium traces basic analysis - manual analysis of peak and active traces.
 ---
 ### **IMAGE EXAMPLE folder**
 - Representative raw multicolor fluorescence images (different JF-dyes and GCaMP emission)
